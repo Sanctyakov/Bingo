@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Bingo/Scenes/Bingo.unity
+  isLoaded: 1
+  isActive: 1
